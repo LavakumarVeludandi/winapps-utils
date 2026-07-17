@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x /home/lava/Documents/Projects/winapps-utils/vm-controller/vm_control.sh /home/lava/Documents/Projects/winapps-utils/vm-controller/install.sh)",
+      "Bash(bash -n vm-controller/vm_control.sh)",
+      "Bash(bash -n vm-controller/install.sh)"
+    ]
+  }
+}
